@@ -1,0 +1,11 @@
+﻿  Janela.cpp
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(79,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(79,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(94,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(94,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(94,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(129,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(130,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(134,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriel\Desktop\Gravidade\Gravidade\Janela.cpp(135,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Gravidade.vcxproj -> C:\Users\Gabriel\Desktop\Gravidade\x64\Debug\Gravidade.exe
